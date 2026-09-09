@@ -18,6 +18,7 @@ Built lifestyle vs performance dashboard showing correlation between study hours
 **Tools Used:**
 * Power BI
 * DAX
+* Power Query
 * Excel
 
 **Charts Used:**
