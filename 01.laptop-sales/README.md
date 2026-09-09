@@ -1,6 +1,7 @@
 # powerbi-portfolio
 powerbi - portfolio
 **1.LAPTOP SALES DASHBOARD**
+[LAPTOP SALES DASHBOARD] [https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/01.laptop-sales/dashboard.png]
 **Screenshots:**
 
 **Problem:** Laptop shop owner didn't know which brand, price, and specs customers buy most, leading to overstock of low-demand laptops.
