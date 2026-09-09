@@ -1,7 +1,7 @@
 **03.Student Lifestyle Analysis**
 
 **Screenshots:**
-[Student Lifestyle Analysis] []
+[Student Lifestyle Analysis] [https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/03.student%20lifestyle%20analysis/student%20lifestyle%20dashboard.png]
 
 **Problem:** 
 College admin wanted to understand how lifestyle (sleep, study hours, diet, social media) affects student CGPA and mental health, but data was scattered.
