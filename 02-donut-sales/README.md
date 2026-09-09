@@ -26,3 +26,12 @@ Sales peaked in February and dropped till April - seasonal trend post-Valentine'
 * Power Query
 * DAX
 * Excel
+
+**Charts Used**
+* KPI
+* Line Chart
+* Stacked Bar Chart
+* Donut Chart
+* Stacked column Chart
+**Other Visuals:**
+* Matrix
