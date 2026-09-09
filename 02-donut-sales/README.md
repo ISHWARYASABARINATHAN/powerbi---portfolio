@@ -1,7 +1,7 @@
 **02.Donut Sales Dashboard**
 
 **Screenshots**
-[DONUT SALES DASHBOARD] [ ] 
+[DONUT SALES DASHBOARD] [https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/tree/main/01.laptop-sales] [https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/tree/main/02-donut-sales] 
 
 **Problem:**
  Donut store had sales data but didn't know which product, location, and time gives max profit. Daily sales were unpredictable.
