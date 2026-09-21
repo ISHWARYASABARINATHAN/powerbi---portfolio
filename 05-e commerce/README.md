@@ -117,11 +117,11 @@ Users can dynamically explore data using:
 
 ### Sales Dashboard
 
-images/sales-dashboard.png
+https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/05-e%20commerce/Sales_Performance%20Dashboard.png
 
 ### Key Insights Page
 
-images/key-insights.png
+https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/05-e%20commerce/Sales%20Performance%20Dashboard%20Key%20Insights.png
 
 ---
 
