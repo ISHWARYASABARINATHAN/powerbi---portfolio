@@ -125,7 +125,7 @@ The dashboard revealed several important findings:
 ## 🖼 Dashboard Preview
 
 ### Attrition Overview
-https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/04-hr%20employee%20attrition/hr_employee_attrition%20overview.png
+https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/04-hr%20employee%20attrition/hr-employee-attrition%20-overview.png
 
 ### Deep Dive Analysis
 https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/04-hr%20employee%20attrition/hr_employee_attrition_deep_dive.png
