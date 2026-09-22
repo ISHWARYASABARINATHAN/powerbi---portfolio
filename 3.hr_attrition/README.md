@@ -1,15 +1,15 @@
 # HR Employee Attrition Analysis - Power BI Dashboard
 ## Front Page:
-![Front Page](3.hr_attrition/1.Front%20Page.png)
+![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/3.hr_attrition/1.Front%20Page.png)
 
 ## Dashboard:
-![Dashboard](3.hr_attrition/2_HR_Attrition_Dashboard.png)
+![Dashboard](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/3.hr_attrition/2_HR_Attrition_Dashboard.png)
 
 ## Deep Dive:
-![Deep Dive](3.hr_attrition/3_HR_attrition_Deep_Dive.png)
+![Deep Dive](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/3.hr_attrition/3_HR_attrition_Deep_Dive.png)
 
 ## Key Findings:
-![Key Findings](3.hr_attrition/4_HR_Attrition_Key_Findings.png)
+![Key Findings](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/3.hr_attrition/4_HR_Attrition_Key_Findings.png)
 
 ## Project Overview
 This Power BI dashboard analyzes employee attrition patterns for 1470 employees to identify key factors driving turnover. It helps HR teams understand which departments, roles, and demographics are most at risk.
