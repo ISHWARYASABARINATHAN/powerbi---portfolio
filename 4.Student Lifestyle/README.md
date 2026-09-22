@@ -8,8 +8,8 @@
 ### Dashboard
 ![Dashboard](2.Dashboard.png)
  
-### Summary
-![Summary](3.Summary.png)
+### Key Insights
+![Summary](3.Key_Insights.png)
 
 ## Key Metrics
 
