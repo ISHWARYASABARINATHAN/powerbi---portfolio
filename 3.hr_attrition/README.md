@@ -54,6 +54,7 @@ This Power BI dashboard analyzes employee attrition patterns for 1470 employees 
 2. Open in Power BI Desktop
 3. Use slicers (Department, Gender, JobRole) to filter
 
-## Contact
-**Name :** Ishwarya S 
-**Email id :** ishwaryasabarinathan@gmail.com
+## Prepared By :
+
+**Name:** Ishwarya S  
+**Email:** ishwaryasabarinathan@gmail.com
