@@ -4,6 +4,7 @@
 
 ## Dashboard:
 ![Dashboard](./2_HR_Attrition_Dashboard.png)
+
 ## Deep Dive:
 ![Deep Dive](./3_HR_Attrition_Deep_Dive.png)
 
