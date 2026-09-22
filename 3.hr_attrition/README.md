@@ -32,7 +32,7 @@ This Power BI dashboard analyzes employee attrition patterns for 1470 employees 
 **4. Key Findings:** Insights & Data Story
 
 ## Key Insights
-- Attrition is concentrated among younger employees (26-35 age group) in frontline roles, particularly in R&D and Sales.
+- Attrition is concentrated among younger employees (26-35 age group) in frontline roles, particularly in R&D and Sales. 
 - Males (63.29%) are more likely to leave than females (36.71%).
 - Overtime plus low promotion opportunities are strongly linked to turnover.
 - Employees who left also earned less on average, suggesting workload balance, career growth, and competitive pay are critical areas for HR to address.
