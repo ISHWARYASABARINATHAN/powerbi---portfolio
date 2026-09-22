@@ -1,5 +1,16 @@
 # 4. Student Lifestyle Analysis
 
+## 📸 Dashboard Preview
+
+### Front Page
+![Front Page](4.Student_Lifestyle/1.Front_Page.png)
+
+### Dashboard
+![Dashboard](4.Student_Lifestyle/2.Dashboard.png)
+
+### Summary
+![Summary](4.Student_Lifestyle/3.Summary.png)
+
 ## Key Metrics
 
 | Metric | Value |
@@ -26,16 +37,6 @@
 - Increase sleep to 7.5 hours to boost performance.
 - Maintain study hours between 7-8 for best results.
 
-## 📸 Dashboard Preview
-
-### Front Page
-![Front Page](4.Student_Lifestyle/1.Front_Page.png)
-
-### Dashboard
-![Dashboard](4.Student_Lifestyle/2.Dashboard.png)
-
-### Summary
-![Summary](4.Student_Lifestyle/3.Summary.png)
 
 ## Presented by
 **Name:** Ishwarya S  
