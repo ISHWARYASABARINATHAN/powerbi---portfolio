@@ -1,7 +1,9 @@
 # LAPTOP SALES ANALYSIS
-
+## Front Page
 ![Front Page](1_Front_Page.png)
+## Dashboard
 ![Dashboard](2_Dashboard.png)
+## Key Insights
 ![Key Findings](3_Key_Findings.png)
 
 **Overview:** 
