@@ -14,7 +14,7 @@
 ## Project Overview
 This Power BI dashboard analyzes employee attrition patterns for 1470 employees to identify key factors driving turnover. It helps HR teams understand which departments, roles, and demographics are most at risk.
 
-**Presented By: Ishwarya S**
+- **Presented By:** Ishwarya S
 
 ## Key KPIs
 - **Attrition Count:** 237 (16.1%)
