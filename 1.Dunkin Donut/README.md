@@ -1,16 +1,16 @@
 # DUNKIN' DONUTS SALES DASHBOARD
 
 ## 1. Front Page
-![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Dunkin%20Donut/1_Front_Page.png)  
+![Front Page](./1_Front_Page.png)
 
 ## 2. Dashboard
-![Dashboard](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Dunkin%20Donut/2_Dashboard.png)
+![Dashboard](./2_Dashboard.png)
 
 ## 3. Detailed Analysis
-![Detailed Analysis](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Dunkin%20Donut/3_Detailed_Analysis.png)
+![Detailed Analysis](./3_Detailed_Analysis.png)
 
 ## 4. Key Findings
-![Key Findings](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Dunkin%20Donut/4_%20Key_Findings.png)
+![Key Findings](./4_Key_Findings.png)
 
 ## Project Overview
 
