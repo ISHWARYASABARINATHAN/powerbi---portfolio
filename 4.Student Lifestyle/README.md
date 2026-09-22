@@ -5,7 +5,7 @@
 ### Front Page
 ![Front Page](1.Front_Page.png)
 
-### Dashboard
+### Dashboard 
 ![Dashboard](2.Dashboard.png)
  
 ### Key Insights
