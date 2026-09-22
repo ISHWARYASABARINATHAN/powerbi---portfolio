@@ -18,11 +18,15 @@ This Power BI dashboard analyzes employee attrition patterns for 1470 employees 
 
 | KPI | Value |
 |---|---|
+|  Attrition Count | **237** |
+|  Avg Income  |  **7.01**  |
+|  Avg Job Satisfaction  |  **2.73**  |
+|  Overtime Employees  |  **416**  |
+|  Promotion Rate  |  **0.64**  |
 |  Total Employees | **1470** |
-|  Attrition | **239** |
-|  Attrition Rate | **16.26%** |
-|  Active | **1231** |
-|  Avg Age | **37** |
+
+
+
 
 ## Dashboard Pages
 
