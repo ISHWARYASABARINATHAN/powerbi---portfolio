@@ -1,7 +1,7 @@
 # ECOMMERCE SALES PERFORMANCE DASHBOARD
 
 ## 1. Front Page
-![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Ecommerce%20Sales/1_Front_Page.png)
+![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Ecommerce%20Sales/1_Front_Page.png) 
 
 ## 2. Dashboard
 ![Dashboard](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Ecommerce%20Sales/2_Dashboard.png)
