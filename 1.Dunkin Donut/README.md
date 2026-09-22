@@ -1,16 +1,16 @@
 # DUNKIN' DONUTS SALES DASHBOARD
 
 ## 1. Front Page
-![Front Page](./1_Front_Page.png)
+![Front Page](1_Front_Page.png)
 
 ## 2. Dashboard
-![Dashboard](./2_Dashboard.png)
+![Dashboard](2_Dashboard.png)
 
 ## 3. Detailed Analysis
-![Detailed Analysis](./3_Detailed_Analysis.png)
+![Detailed Analysis](3_Detailed_Analysis.png)
 
 ## 4. Key Findings
-![Key Findings](./4_Key_Findings.png)
+![Key Findings](4_Key_Findings.png)
 
 ## Project Overview
 
