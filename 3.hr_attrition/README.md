@@ -17,7 +17,7 @@ This Power BI dashboard analyzes employee attrition patterns for 1470 employees 
 - **Presented By:** Ishwarya S
 
 ## Key KPIs
-- **Attrition Count:** 237 (16.1%)
+- **Attrition Count:** 237 (16.1%) 
 - **Total Employees:** 1470
 - **Avg Income:** 7.01K
 - **Avg Job Satisfaction:** 2.73
