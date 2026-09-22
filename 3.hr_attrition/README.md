@@ -16,11 +16,13 @@ This Power BI dashboard analyzes employee attrition patterns for 1470 employees 
 
 - **Presented By:** Ishwarya S
 
-## Key KPIs
-- **239** - Employees Left
-- **701** - Male Employees  
-- **273** - Single Employees
-- **16%** - Attrition Rate
+| KPI | Value |
+|---|---|
+|  Total Employees | **1470** |
+|  Attrition | **239** |
+|  Attrition Rate | **16.26%** |
+|  Active | **1231** |
+|  Avg Age | **37** |
 
 ## Dashboard Pages
 
