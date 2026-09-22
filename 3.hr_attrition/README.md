@@ -26,10 +26,10 @@ This Power BI dashboard analyzes employee attrition patterns for 1470 employees 
 
 ## Dashboard Pages
 
-- **1. Cover Page:** Title & Project Info
-- **2. Attrition Overview:** Department, Job Role, Age Group wise attrition analysis
-- **3. Deep Dive:** Gender-wise, Overtime vs Attrition, Income vs Attrition analysis
-- **4. Key Findings:** Insights & Data Story
+1. ** Cover Page:** Title & Project Info
+2. ** Attrition Overview:** Department, Job Role, Age Group wise attrition analysis
+3. ** Deep Dive:** Gender-wise, Overtime vs Attrition, Income vs Attrition analysis
+4. ** Key Findings:** Insights & Data Story
 
 ## Key Insights
 - Attrition is concentrated among younger employees (26-35 age group) in frontline roles, particularly in R&D and Sales. 
