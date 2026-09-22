@@ -1,4 +1,4 @@
-# HR Employee Attrition Analysis - Power BI Dashboard
+# HR Employee Attrition  - Power BI Dashboard
 ## Front Page:
 ![Front Page](./1.Front%20Page.png)
 
