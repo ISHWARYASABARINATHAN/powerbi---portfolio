@@ -15,7 +15,6 @@
 
 | Metric | Value |
 |---|---|
-| **Total Students** | 2000 |
 | **Avg Sleep Hours** | 7.50 |
 | **Avg Study Hours** | 7.48 |
 | **Pass Students** | 2000 |
