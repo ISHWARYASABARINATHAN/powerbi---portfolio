@@ -1,13 +1,13 @@
 # ECOMMERCE SALES PERFORMANCE DASHBOARD
 
 ## 1. Front Page
-![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Ecommerce%20Sales/1_Front_Page.png) 
+![Front Page](./1_Front_Page.png)
 
 ## 2. Dashboard
-![Dashboard](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Ecommerce%20Sales/2_Dashboard.png)
+![Dashboard](./2_Dashboard.png)
 
 ## 3. Key Findings
-![Key Findings](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Ecommerce%20Sales/3_Key_Findings.png)
+![Key Findings](./3_Key_Findings.png)
 
 ## Project Overview
 An interactive Power BI sales dashboard analyzing E-commerce sales from 2010 to 2011. The dashboard provides KPI tracking, country-wise performance, revenue trends, and interactive filtering.
