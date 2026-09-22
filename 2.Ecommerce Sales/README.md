@@ -2,7 +2,7 @@
 
 ## 1. Front Page
 ![Front Page](./1_Front_Page.png)
-
+ 
 ## 2. Dashboard
 ![Dashboard](./2_Dashboard.png)
 
