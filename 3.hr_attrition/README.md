@@ -6,7 +6,7 @@
 ![Dashboard](./2_HR_Attrition_Dashboard.png)
 
 ## Deep Dive:
-![Deep Dive](./3_HR_Attrition_Deep_Dive.png)
+![Deep Dive](./3_HR_attrition_Deep_Dive.png)
 
 ## Key Findings:
 ![Key Findings](./4_HR_Attrition_Key_Findings.png)
