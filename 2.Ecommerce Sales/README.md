@@ -50,5 +50,6 @@ An interactive Power BI sales dashboard analyzing E-commerce sales from 2010 to 
 **Power BI | Data Cleaning | Power Query | DAX | Data Visualization | KPI Analysis | Matrix | Slicer | Donut & Line Chart**
 
 ## Prepared By
-**Name:** Ishwarya S
+
+**Name:** Ishwarya S  
 **Email:** ishwaryasabarinathan@gmail.com
