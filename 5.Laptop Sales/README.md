@@ -3,11 +3,13 @@
 ![Front Page](1.Front Page.png)
 ## Dashboard
 ![Dashboard](2.Dashboard.png)
-## Key Insights
+## Key Findings
 ![Key Findings](3.Key Findings.png)
 
 **Overview:** 
-1303 Laptops Analysis | Avg Price 59.9K
+1303 Laptops Analysis 
+
+Avg Price 59.87K
 
 **Findings:**
 - Dell, Lenovo, HP = 60% Market Share
