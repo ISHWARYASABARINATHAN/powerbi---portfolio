@@ -3,7 +3,7 @@
 ## 📸 Dashboard Preview
 
 ### Front Page
-![Front Page](4.Student_Lifestyle/1.Front_Page.png)
+![Front Page](4.Student Lifestyle Analysis/1.Front Page.png)
 
 ### Dashboard
 ![Dashboard](4.Student_Lifestyle/2.Dashboard.png)
