@@ -1,10 +1,10 @@
 # LAPTOP SALES ANALYSIS
 ## Front Page
-![Front Page](1_Front_Page.png)
+![Front Page](1.Front Page.png)
 ## Dashboard
-![Dashboard](2_Dashboard.png)
+![Dashboard](2.Dashboard.png)
 ## Key Insights
-![Key Findings](3_Key_Findings.png)
+![Key Findings](3.Key Findings.png)
 
 **Overview:** 
 1303 Laptops Analysis | Avg Price 59.9K
