@@ -1,6 +1,6 @@
 # 4. Student Lifestyle Analysis
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Front Page
 ![Front Page](1.Front_Page.png)
