@@ -1,4 +1,4 @@
-# 4. Student Lifestyle Analysis
+#  Student Lifestyle Analysis
 
 ## Dashboard Preview
 
