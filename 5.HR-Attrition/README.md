@@ -9,10 +9,10 @@ An interactive Power BI dashboard analyzing why 237 employees left the organizat
 ## 📊 Dashboard Preview
 
 ### 1️⃣ Cover Page - HR Attrition
-![Cover](1.Cover.png)
+![Cover](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/5.HR-Attrition/1.Front_Page.png)
 
 ### 2️⃣ Attrition Overview - KPIs & Department Analysis
-![Attrition Overview](2.Attrition_Overview.png)
+![Attrition Overview](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/5.HR-Attrition/2.HR_Attrition_Dashboard.png)
 
 **KPIs:**
 - **Attrition Count:** 237
@@ -29,7 +29,7 @@ An interactive Power BI dashboard analyzing why 237 employees left the organizat
 - Slicers: Department, BusinessTravel, Gender, EducationField, JobRole, MaritalStatus
 
 ### 3️⃣ Deep Dive Analysis
-![Deep Dive](3.Deep_Dive.png)
+![Deep Dive](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/5.HR-Attrition/3.HR_Attrition_Deep_Dive.png)
 
 **Visuals:**
 - **Attrition by Gender:** Male 62.29% (150) vs Female 36.71% (87) - Males leave more
@@ -37,7 +37,7 @@ An interactive Power BI dashboard analyzing why 237 employees left the organizat
 - **Average Income by Attrition Status:** Employees who left (Yes) earned less than those who stayed (No)
 
 ### 4️⃣ Ask AI - Agentic AI Explorer
-![Ask AI](4.Ask_AI.png)
+![Ask AI](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/5.HR-Attrition/4.HR_Attrition_Ask_AI.png)
 
 > **Try Asking:**
 > "Show count of Attrition by Department" or
@@ -49,7 +49,7 @@ An interactive Power BI dashboard analyzing why 237 employees left the organizat
 Query Example: `Show count of attrition by Gender` - Bar chart shows Male vs Female attrition.
 
 ### 5️⃣ Key Findings & Data Story
-![Key Findings](5.Key_Findings.png)
+![Key Findings](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/5.HR-Attrition/5.HR-Attrition_Key_Findings.png)
 
 **KEY INSIGHTS:**
 Attrition is concentrated among younger employees in frontline roles, particularly in R&D and Sales. Males are more likely to leave than females, and overtime plus low promotion opportunities are strongly linked to turnover. Employees who left also earned less on average, suggesting that workload balance, career growth, and competitive pay are critical areas for HR to address.
