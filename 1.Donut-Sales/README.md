@@ -49,5 +49,5 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 
 ## 🛠️ Tools Used
 - Power BI Desktop, DAX, Power Query
-- Bookmarks & Page Navigation, Q&A Visual (Agentic AI)
-- Data Visualization & Storytelling
+- Page Navigation, Q&A Visual (Agentic AI)
+- Data Visualization
