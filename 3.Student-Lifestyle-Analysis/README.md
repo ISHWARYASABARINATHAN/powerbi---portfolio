@@ -69,5 +69,5 @@ Built-in Q&A visual for natural language analysis.
 
 ## 🛠️ Tools Used
 - Power BI Desktop, Power Query, DAX
-- Bookmarks & Page Navigation
+- Page Navigation
 - Q&A Visual (Agentic AI)
