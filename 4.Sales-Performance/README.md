@@ -63,7 +63,6 @@ Revenue is heavily concentrated in the UK (89%), while other countries contribut
 
 ## 🛠️ Tools Used
 - Power BI Desktop, Power Query, DAX
-- Key Influencers & Decomposition Tree
 - Q&A Visual (Agentic AI)
 
 ## 📂 Files in this Repo
