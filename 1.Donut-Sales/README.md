@@ -11,10 +11,10 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 ## 📊 Live Dashboard Preview
 
 ### 1️⃣ Front Page - Cover with Navigation
-![Front Page](Screenshots/01_Front_Page.png)
+![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/1.Front_Page.png)
 
 ### 2️⃣ Sales Overview - KPIs & Trends
-![Dashboard Overview](Screenshots/02_Dashboard.png)
+![Dashboard Overview]([Screenshots/02_Dashboard.png](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/2.Dashboard.png))
 **KPIs:** Total Sales 60.02K | Total Orders 500 | Units Sold 27K | Avg Rating 3.98
 - Units Sold by Flavour (Vanilla Frosted Top)
 - Sales by Store Location (Miami Top)
