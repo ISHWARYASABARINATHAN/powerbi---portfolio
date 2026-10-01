@@ -55,9 +55,9 @@ Focus on mid-range (₹50K-₹70K) i5 + 8GB RAM + 256GB SSD combo - best value f
 
 ## 🛠️ Tools Used
 - Power BI Desktop, Power Query, DAX
-- Bookmarks & Page Navigation
+- Page Navigation
 - Q&A Visual (Agentic AI)
-- Data Visualization & Storytelling
+- Data Visualization
 
 ## 📂 Files in this Repo
 - Screenshots (4 Pages)
