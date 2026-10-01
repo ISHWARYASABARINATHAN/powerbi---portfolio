@@ -9,10 +9,10 @@ An interactive Power BI dashboard analyzing 2100+ invoices and 40K units sold, f
 ## 📊 Dashboard Preview
 
 ### 1️⃣ Front Page - Cover
-![Front Page](1.Front_Page.png)
+![Front Page]((https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/4.Sales-Performance/1.Front_Page.png)
 
 ### 2️⃣ Dashboard Overview - Sales Performance
-![Dashboard](2.Dashboard.png)
+![Dashboard](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/4.Sales-Performance/2.Dashboard.png)
 
 **KPIs:**
 - **Average of Revenue:** 40.16
@@ -28,7 +28,7 @@ An interactive Power BI dashboard analyzing 2100+ invoices and 40K units sold, f
 - Country Slicer & InvoiceDate Slicer
 
 ### 3️⃣ Ask AI - Agentic AI Insights
-![Ask AI](3.Ask_AI.png)
+![Ask AI]((https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/4.Sales-Performance/3.Ask%20AI.png)
 
 > **Try Asking:**
 > "Show count of InvoiceNo" or
@@ -41,7 +41,7 @@ An interactive Power BI dashboard analyzing 2100+ invoices and 40K units sold, f
 Query: `Show count of InvoiceNo by country` - UK has ~1950+ invoices vs others <50.
 
 ### 4️⃣ Key Findings & Data Story
-![Key Findings](4.Key_Findings.png)
+![Key Findings](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/4.Sales-Performance/4.Key_Findings.png)
 
 **Key Insight:**
 Revenue is heavily concentrated in the UK (89%), while other countries contribute marginally. Year-over-year growth from 2010 to 2011 is strong, supported by 2,100 invoices and 40K units sold. However, average revenue per unit is modest, suggesting a need to review pricing or product mix. Expanding in underperforming countries could reduce dependency on the UK market.
