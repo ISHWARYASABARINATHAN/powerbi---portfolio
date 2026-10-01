@@ -9,7 +9,7 @@ An interactive Power BI dashboard analyzing 1300+ laptop sales data with pricing
 ## 📊 Dashboard Preview
 
 ### 1️⃣ Front Page - Cover Navigation
-![Front Page]((1.Front_Page.png](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/1.Front_Page.png))
+![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/1.Front_Page.png)(https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/1.Front_Page.png))
 
 ### 2️⃣ Dashboard Overview - KPIs & Visuals
 ![Dashboard](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/2.Dashboard.png)
