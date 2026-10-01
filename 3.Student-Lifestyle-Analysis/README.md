@@ -9,7 +9,7 @@ An interactive Power BI dashboard analyzing the impact of Sleep, Study Hours, an
 ## 📊 Dashboard Preview
 
 ### 1️⃣ Front Page - Cover
-![Front Page]([1.Front_Page.png](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/3.Student-Lifestyle-Analysis/1.Front_Page.png))
+![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/3.Student-Lifestyle-Analysis/1.Front_Page.png)
 
 ### 2️⃣ Dashboard Overview - KPIs & Insights
 ![Dashboard](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/3.Student-Lifestyle-Analysis/2.Dashboard.png)
