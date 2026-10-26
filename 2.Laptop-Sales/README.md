@@ -1,6 +1,6 @@
 # 💻 Laptop Sales Analysis Dashboard
 
-An interactive Power BI dashboard analyzing 1300+ laptop sales data with pricing, brand, and specification insights using Agentic AI.
+An interactive Power BI dashboard analyzing 1,303 laptop records to understand pricing, brand, type and specification patterns, with a Q&A page for natural-language questions.
 
 **Presented By:** Ishwarya S | ishwaryasabarinathan@gmail.com
 
@@ -8,61 +8,73 @@ An interactive Power BI dashboard analyzing 1300+ laptop sales data with pricing
 
 ## 📊 Dashboard Preview
 
-### 1️⃣ Front Page - Cover Navigation
-![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/1.Front_Page.png)(https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/1.Front_Page.png))
+### 1️⃣ Front Page
+![Front Page](2.Laptop-Sales/1_Front_Page.png)
 
-### 2️⃣ Dashboard Overview - KPIs & Visuals
-![Dashboard](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/2.Dashboard.png)
+### 2️⃣ Dashboard Overview: KPIs & Visuals
+![Dashboard](2.Laptop-Sales/2_dASHBOARD.png)
 
 **KPIs:**
 - **Avg RAM:** 8 GB
-- **Total Laptops:** 1303
-- **Avg Price:** 59.87K
+- **Total Laptops:** 1,303
+- **Avg Price:** ₹59.87K
 
 **Visuals Covered:**
-- Price by Brand (Dell, Lenovo, HP, Asus)
-- Types of Laptops Sold (Notebook 55.79% dominant)
-- Light Laptop = More Price? (Weight vs Price Scatter)
-- RAM vs Price, Windows Used Most, Screen Size vs Price
+- Price by Brand (with a Brand slicer)
+- Types of Laptops Sold (Notebook 55.79%, Gaming 15.73%)
+- Weight vs Price (scatter plot)
+- RAM vs Price
+- Operating System Usage
+- Screen Size vs Price
 
-### 3️⃣ Ask AI - Agentic AI Insights
-![Ask AI](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/3.Ask%20AI.png)
+### 3️⃣ Ask Your Data
+![Ask Your Data](2.Laptop-Sales/3_Ask_AI.png)
 
-> **Try Asking:** "What is average price by Brand?" | "Show count of laptops by TypeName" | "Is there correlation between Weight and Price?"
+> **Try asking:** "What is the average price by Brand?" | "Show the count of laptops by TypeName" | "Is there a correlation between Weight and Price?"
 
-Built-in Q&A visual for natural language queries - AI auto generates charts.
+Power BI's Q&A visual turns natural-language questions into charts instantly.
 
 ### 4️⃣ Key Findings & Recommendations
-![Key Findings](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/4.Key_Findings.png)
+![Key Findings](2.Laptop-Sales/4_KEY_INSIGHTS.png)
+
+---
+
+## 🗂️ Dataset
+
+- **Source:** Laptop price dataset
+- **Size:** 1,303 laptops
+- **Main columns:** Brand, TypeName, Inches, RAM, Weight, OpSys, Price
 
 ---
 
 ## 💡 Key Insights
 
-**1. Pricing Insight:**
-Average laptop price is ₹59.9K, with most laptops ranging from ₹35K-₹80K. Gaming laptops priced 2x higher than Ultrabooks.
+**1. Pricing**
+The average laptop price is ₹59.87K across 1,303 laptops. Price tends to rise with RAM, screen size and weight.
 
-**2. Brand & Type:**
-Dell, Lenovo, HP dominate with 60% market share. Notebook category is most common (55.79%), followed by Gaming (~15-20%).
+**2. Brand & Type**
+Notebooks are the most common type (55.79%), followed by Gaming (15.73%) and Ultrabooks (about 15%). 2-in-1 laptops make up 9.29%.
 
-**3. Specifications:**
-8GB RAM is standard (45% laptops). 256GB SSD is most popular storage. Intel Core i5 is the most used CPU. Windows 10 is the most used OS.
+**3. Specifications**
+The average RAM is 8 GB and the average screen size is 15.02 inches. Windows 10 is by far the most used operating system.
 
-**4. Recommendation:**
-Focus on mid-range (₹50K-₹70K) i5 + 8GB RAM + 256GB SSD combo - best value for students & office users.
+**4. Recommendation**
+Focus on mid-range Notebook laptops with 8 GB RAM, the largest and most typical segment.
 
 ---
 
 ## 🛠️ Tools Used
-- Power BI Desktop, Power Query, DAX
+- Power BI Desktop
+- Power Query (data cleaning)
 - Page Navigation
-- Q&A Visual (Agentic AI)
+- Q&A Visual
 - Data Visualization
 
 ## 📂 Files in this Repo
-- Screenshots (4 Pages)
-- Laptop_Sales_Sample_100rows.xlsx
-- Laptop_Sales_Dashboard.pdf
+- Screenshots (4 pages)
 - Laptop_Sales.pbix
+- Laptop_Sales_Dashboard.pdf
 
-Thank You!
+---
+
+Thank you! 🙌  
