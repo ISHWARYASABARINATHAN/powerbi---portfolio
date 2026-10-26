@@ -39,32 +39,37 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
  
 ---
 
-##  Key Insights
+## 💡 Key Insights
 
-**1. Top Products:** Vanilla Frosted is bestseller (12% share). Top 3 flavours drive 35%+ revenue. Total Sales $60.02K from 500 orders.
+**1. Top Products**
+Vanilla Frosted is the bestseller, with the most units sold and the highest revenue ($7.05K, 11.75% share). The top 3 flavours (Vanilla Frosted, Jelly, Blueberry Cake) together bring in about 34% of revenue. Total sales are $60.02K from 500 orders.
 
-**2. Store Analysis:** Miami highest (~$12K+), NY second. Chicago & Boston lowest - need local promos. Service rating consistent 3.9-4.0.
+**2. Store Analysis**
+Miami leads with $13.08K, followed by New York ($12.57K) and Los Angeles ($12.14K). Boston ($11.52K) and Chicago ($10.71K) are the lowest. Average ratings are consistent across stores (3.93 - 4.03).
 
-**3. Customer Behavior:** Payments are split almost equally: Cash, Mobile Pay, Credit Card.
+**3. Customer Behavior**
+Payments are split almost equally: Cash (34.8%), Mobile Pay (34.3%) and Credit Card (30.89%). Morning is the strongest shift, and Evening is the weakest.
 
-**4. Recommendation:** Sales peaked Feb, dropped till April. Push Strawberry & Chocolate in April,run "Morning Combo" in low stores,support all three payment methods(Cash,Mobile Pay,Credit Card).
+**4. Monthly Trend**
+Sales were highest in January and declined gradually through March, then dropped sharply in April.
+
+**5. Recommendation**
+Run local promotions in Boston and Chicago, push lower-performing flavours such as Strawberry Frosted and Chocolate Frosted in April, and support all three payment methods.
 
 ---
 
-## Tools
+## 🛠️ Tools Used
 - Power BI Desktop
-- DAX
-- Power Query
-- Excel
-  
-## Features
-- Page Navigation
+- Power Query (data cleaning)
+- Page Navigation & Slicers
 - Q&A Visual
-- KPI Cards
-- Donut Charts
-- Column Charts
-- Bar Charts
-- Line Chart
-- Slicers
-- Table
+- Data Visualization
 
+## 📂 Files in this Repo
+- Screenshots (5 pages)
+- Dunkin_Donuts_Sales.pbix
+- Dunkin_Donuts_Dashboard.pdf
+
+---
+
+Thank you!
