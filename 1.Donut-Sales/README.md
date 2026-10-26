@@ -15,6 +15,7 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 
 ### 2️⃣ Sales Overview - KPIs & Trends
 ![Dashboard Overview](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/2.Dashboard.png)
+
 **KPIs:** Total Sales 60.02K | Total Orders 500 | Units Sold 27K | Avg Rating 3.98
 - Units Sold by Flavour (Vanilla Frosted Top)
 - Sales by Store Location (Miami Top)
@@ -22,16 +23,19 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 
 ### 3️⃣ Detailed Analysis - Deep Dive
 ![Detailed Analysis](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/3.Detailed_Analysis.png)
+
 - Revenue Share by Flavour (Donut Chart)
 - Payment Method (Card 70% vs Cash 30%)
 - Store-wise Table & Sales by Shift
 
-### 4️⃣ Ask AI - Agentic AI Explorer
-![Ask AI Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/4.Ask%20AI.png)
-> Natural Language Q&A: "What is total sales by shift?" - AI auto generates chart!
+### 4️⃣ Ask AI 
+![Ask AI Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/4.Ask_AI.png)
+
+- Type a Plain English question like "What is total Sales by Shift?" and the visual builds automatically.
 
 ### 5️⃣ Key Findings & Recommendations
 ![Key Findings](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/5.Key_Findings.png)
+
 
 ---
 
@@ -49,5 +53,5 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 
 ## 🛠️ Tools Used
 - Power BI Desktop, DAX, Power Query
-- Page Navigation, Q&A Visual (Agentic AI)
+- Page Navigation, Q&A Visual 
 - Data Visualization
