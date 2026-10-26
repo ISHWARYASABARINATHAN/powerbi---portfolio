@@ -28,7 +28,7 @@ An interactive Power BI dashboard analyzing 1,303 laptop records to understand p
 - Screen Size vs Price
 
 ### 3️⃣ Ask Your Data
-![Ask Your Data](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/3_Ask_Your_Data.pn)
+![Ask Your Data](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/3_Ask_Your_Data.png)
 
 > **Try asking:** "What is the average price by Brand?" | "Show the count of laptops by TypeName" | "Is there a correlation between Weight and Price?"
 
