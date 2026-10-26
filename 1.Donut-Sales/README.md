@@ -11,10 +11,10 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 ## Dashboard Preview
 
 ### 1️⃣ Front Page - Cover with Navigation
-![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/1.Front_Page.png)
+![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/1_Front_Page.png)
 
 ### 2️⃣ Sales Overview - KPIs & Trends
-![Dashboard Overview](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/2.Dashboard.png)
+![Dashboard Overview](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/2_Dashboard.png)
 
 **KPIs:** Total Sales 60.02K | Total Orders 500 | Units Sold 27K | Avg Rating 3.98
 - Units Sold by Flavour (Vanilla Frosted Top)
@@ -22,19 +22,19 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 - Sales by Month (Feb Peak)
 
 ### 3️⃣ Detailed Analysis - Deep Dive
-![Detailed Analysis](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/3.Detailed_Analysis.png)
+![Detailed Analysis](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/3_Detailed_Analysis.png)
 
 - Revenue Share by Flavour (Donut Chart)
 - Payments are split almost equally: Cash,Mobile Pay,Credit Card.
 - Store-wise Table & Sales by Shift
 
 ### 4️⃣ Ask Your Data (Q&A)
-![Ask AI Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/4.Ask_AI.png)
+![Ask AI Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/4_Ask_Your_Data.png)
 
 - Type a plain English question like "What is total sales by Shift?" and the visual builds automatically.
 
 ### 5️⃣ Key Findings & Recommendations
-![Key Findings](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/5.Key_Findings.png)
+![Key Findings](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/5_Key_Findings.png)
 
  
 ---
