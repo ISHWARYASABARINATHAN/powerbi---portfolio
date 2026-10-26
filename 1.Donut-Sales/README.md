@@ -25,13 +25,13 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 ![Detailed Analysis](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/3.Detailed_Analysis.png)
 
 - Revenue Share by Flavour (Donut Chart)
-- Payment Method (Card 70% vs Cash 30%)
+- Payments are split almost equally: Cash,Mobile Pay,Credit Card.
 - Store-wise Table & Sales by Shift
 
-### 4️⃣ Ask AI 
+### 4️⃣ Ask Your Data (Q&A)
 ![Ask AI Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/4.Ask_AI.png)
 
-- Type a Plain English question like "What is total Sales by Shift?" and the visual builds automatically.
+- Type a plain English question like "What is total sales by Shift?" and the visual builds automatically.
 
 ### 5️⃣ Key Findings & Recommendations
 ![Key Findings](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/5.Key_Findings.png)
@@ -45,9 +45,9 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 
 **2. Store Analysis:** Miami highest (~$12K+), NY second. Chicago & Boston lowest - need local promos. Service rating consistent 3.9-4.0.
 
-**3. Customer Behavior:** Card 70% vs Cash 30% (urban customers). Morning shift highest sales, Evening lowest - staffing max in morning.
+**3. Customer Behavior:** Payments are split almost equally: Cash, Mobile Pay, Credit Card.
 
-**4. Recommendation:** Sales peaked Feb, dropped till April. Push Strawberry & Chocolate in April, run "Morning Combo" in low stores, promote card cashback.
+**4. Recommendation:** Sales peaked Feb, dropped till April. Push Strawberry & Chocolate in April,run "Morning Combo" in low stores,support all three payment methods(Cash,Mobile Pay,Credit Card).
 
 ---
 
