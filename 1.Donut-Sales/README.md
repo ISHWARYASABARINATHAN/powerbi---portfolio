@@ -52,6 +52,16 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 ---
 
 ## Tools
-- Power BI Desktop, DAX, Power Query, Excel.
+- Power BI Desktop
+- DAX
+- Power Query
+- Excel
+  
 ## Features
-- Page Navigation, Q&A Visual, KPI, Cards, DonutChart, Slicers, Bar Chart, Line Chart.
+- Page Navigation
+- Q&A Visual
+- KPI Cards
+- Donut Chart
+- Slicers
+- Bar Chart
+- Line Chart
