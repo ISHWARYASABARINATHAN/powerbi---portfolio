@@ -27,7 +27,7 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 - Store-wise Table & Sales by Shift
 
 ### 4️⃣ Ask AI - Agentic AI Explorer
-![Ask AI Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/4.Ask_AI.png)
+![Ask AI Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/4.Ask%20AI.png)
 > Natural Language Q&A: "What is total sales by shift?" - AI auto generates chart!
 
 ### 5️⃣ Key Findings & Recommendations
