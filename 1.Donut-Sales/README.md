@@ -1,14 +1,14 @@
 
 # 🍩 Dunkin' Donuts Sales Dashboard | Jan - Apr 2024
 
-An interactive Power BI dashboard analyzing sales performance from Jan-Apr 2024 with Agentic AI integration.
+An interactive Power BI dashboard analyzing sales performance from Jan-Apr 2024 with Q&A visual for natural-language questions.
 
 **Presented By:** 
 Ishwarya S | ishwaryasabarinathan@gmail.com
 
 ---
 
-##  Live Dashboard Preview
+## Dashboard Preview
 
 ### 1️⃣ Front Page - Cover with Navigation
 ![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/1.Front_Page.png)
@@ -61,7 +61,10 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 - Page Navigation
 - Q&A Visual
 - KPI Cards
-- Donut Chart
-- Slicers
-- Bar Chart
+- Donut Charts
+- Column Charts
+- Bar Charts
 - Line Chart
+- Slicers
+- Table
+
