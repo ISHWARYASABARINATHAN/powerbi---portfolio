@@ -8,7 +8,7 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 
 ---
 
-## 📊 Live Dashboard Preview
+##  Live Dashboard Preview
 
 ### 1️⃣ Front Page - Cover with Navigation
 ![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/1.Front_Page.png)
@@ -39,7 +39,7 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 **1. Top Products:** Vanilla Frosted is bestseller (12% share). Top 3 flavours drive 35%+ revenue. Total Sales $60.02K from 500 orders.
 
@@ -51,7 +51,7 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 
 ---
 
-## 🛠️ Tools Used
-- Power BI Desktop, DAX, Power Query
-- Page Navigation, Q&A Visual 
-- Data Visualization
+## Tools
+- Power BI Desktop, DAX, Power Query, eXCEL
+## Features
+- Page Navigation, Q&A Visual, KPI, Cards, DonutChart, Slicers, Bar Chart, Line Chart.
