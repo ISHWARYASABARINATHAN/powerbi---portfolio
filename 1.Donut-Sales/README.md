@@ -36,7 +36,7 @@ Ishwarya S | ishwaryasabarinathan@gmail.com
 ### 5️⃣ Key Findings & Recommendations
 ![Key Findings](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/1.Donut-Sales/5.Key_Findings.png)
 
-
+ 
 ---
 
 ##  Key Insights
