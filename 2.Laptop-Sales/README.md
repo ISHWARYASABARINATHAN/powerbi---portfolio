@@ -9,10 +9,10 @@ An interactive Power BI dashboard analyzing 1,303 laptop records to understand p
 ## 📊 Dashboard Preview
 
 ### 1️⃣ Front Page
-![Front Page](2.Laptop-Sales/1_Front_Page.png)
+![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/1_Front_Page.png)
 
 ### 2️⃣ Dashboard Overview: KPIs & Visuals
-![Dashboard](2.Laptop-Sales/2_dASHBOARD.png)
+![Dashboard](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/2_Dashboard.png)
 
 **KPIs:**
 - **Avg RAM:** 8 GB
@@ -28,14 +28,14 @@ An interactive Power BI dashboard analyzing 1,303 laptop records to understand p
 - Screen Size vs Price
 
 ### 3️⃣ Ask Your Data
-![Ask Your Data](2.Laptop-Sales/3_Ask_AI.png)
+![Ask Your Data](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/3_Ask_Your_Data.pn)
 
 > **Try asking:** "What is the average price by Brand?" | "Show the count of laptops by TypeName" | "Is there a correlation between Weight and Price?"
 
 Power BI's Q&A visual turns natural-language questions into charts instantly.
 
 ### 4️⃣ Key Findings & Recommendations
-![Key Findings](2.Laptop-Sales/4_KEY_INSIGHTS.png)
+![Key Findings](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/2.Laptop-Sales/4_Key_Findings.png)
 
 ---
 
