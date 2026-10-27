@@ -1,6 +1,6 @@
 # 🎓 Student Lifestyle Analysis Dashboard | 2000 Students
 
-An interactive Power BI dashboard analyzing the impact of Sleep, Study Hours, and Stress Level on Student GPA and Academic Performance using Agentic AI.
+An interactive Power BI dashboard analyzing the impact of Sleep, Study Hours, and Stress Level on Student GPA and Academic Performance using Q & A.
 
 **Presented By:** Ishwarya S | ishwaryasabarinathan@gmail.com
 
@@ -31,8 +31,8 @@ An interactive Power BI dashboard analyzing the impact of Sleep, Study Hours, an
 - Study Sweet Spot: 7-8 hours study = Highest pass rate (2000 students).
 - Recommendation: Increase sleep to 7.5 to boost performance.
 
-### 3️⃣ Ask AI - Agentic AI Insights
-![Ask AI](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/3.Student-Lifestyle-Analysis/3.Ask%20AI.png)
+### 3️⃣ Ask AI - Q & A
+![Ask AI](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/3.Student-Lifestyle-Analysis/3_Ask_Your_Data.png)
 
 > **Try Asking:**
 > "Show count of students by Performance Level" or
@@ -70,4 +70,4 @@ Built-in Q&A visual for natural language analysis.
 ## 🛠️ Tools Used
 - Power BI Desktop, Power Query, DAX
 - Page Navigation
-- Q&A Visual (Agentic AI)
+- Q&A Visual
