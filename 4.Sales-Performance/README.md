@@ -28,7 +28,7 @@ An interactive Power BI dashboard analyzing 2100+ invoices and 40K units sold, f
 - Country Slicer & InvoiceDate Slicer
 
 ### 3️⃣ Ask AI - Agentic AI Insights
-![Ask AI](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/4.Sales-Performance/3.Ask%20AI.png)
+![Ask AI](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/4.Sales-Performance/3_Ask_Your_Data.png)
 
 > **Try Asking:**
 > "Show count of InvoiceNo" or
