@@ -1,6 +1,6 @@
 # 👩‍💼 HR Attrition Analysis Dashboard | 1470 Employees
 
-An interactive Power BI dashboard analyzing why 237 employees left the organization, focusing on Department, Job Role, Age Group, Overtime, and Promotion Rate with Agentic AI.
+An interactive Power BI dashboard analyzing why 237 employees left the organization, focusing on Department, Job Role, Age Group, Overtime, and Promotion Rate with Q & A.
 
 **Presented By:** Ishwarya S | ishwaryasabarinathan@gmail.com
 
@@ -36,8 +36,8 @@ An interactive Power BI dashboard analyzing why 237 employees left the organizat
 - **Overtime vs Attrition:** Strong link - Employees with overtime more likely to leave
 - **Average Income by Attrition Status:** Employees who left (Yes) earned less than those who stayed (No)
 
-### 4️⃣ Ask AI - Agentic AI Explorer
-![Ask AI](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/5.HR-Attrition/4.HR_Attrition_Ask_AI.png)
+### 4️⃣ Ask Your AI
+![Ask AI]([https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/5.HR-Attrition/4.HR_Attrition_Ask_AI.png](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/5.HR-Attrition/4_Ask_Your_Data.png))
 
 > **Try Asking:**
 > "Show count of Attrition by Department" or
@@ -71,8 +71,8 @@ Attrition is concentrated among younger employees in frontline roles, particular
 ---
 
 ## 🛠️ Tools Used
-- Power BI Desktop, Power Query, DAX, Copilot
-- Bookmarks & Navigation, Q&A Visual (Agentic AI)
+- Power BI Desktop, Power Query, DAX 
+- Bookmarks & Navigation, Q&A Visual
 
 ## 📂 Files in this Repo
 - Screenshots (5 Pages)
