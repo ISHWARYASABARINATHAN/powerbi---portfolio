@@ -1,6 +1,6 @@
 # 🛒 Ecommerce Sales Performance Dashboard | 2010-2011
 
-An interactive Power BI dashboard analyzing 2100+ invoices and 40K units sold, focusing on revenue by country and YoY growth with Agentic AI.
+An interactive Power BI dashboard analyzing 2100+ invoices and 40K units sold, focusing on revenue by country and YoY growth with Q & A.
 
 **Presented By:** Ishwarya S | ishwaryasabarinathan@gmail.com
 
@@ -63,7 +63,7 @@ Revenue is heavily concentrated in the UK (89%), while other countries contribut
 
 ## 🛠️ Tools Used
 - Power BI Desktop, Power Query, DAX
-- Q&A Visual (Agentic AI)
+- Q&A Visual
 
 ## 📂 Files in this Repo
 - Screenshots (4 Pages)
