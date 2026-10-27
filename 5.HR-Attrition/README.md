@@ -37,7 +37,7 @@ An interactive Power BI dashboard analyzing why 237 employees left the organizat
 - **Average Income by Attrition Status:** Employees who left (Yes) earned less than those who stayed (No)
 
 ### 4️⃣ Ask Your AI
-![Ask AI]([https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/5.HR-Attrition/4.HR_Attrition_Ask_AI.png](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/5.HR-Attrition/4_Ask_Your_Data.png))
+![Ask AI]([https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/5.HR-Attrition/4.HR_Attrition_Ask_AI.png]
 
 > **Try Asking:**
 > "Show count of Attrition by Department" or
