@@ -9,7 +9,7 @@ An interactive Power BI dashboard analyzing 2100+ invoices and 40K units sold, f
 ## 📊 Dashboard Preview
 
 ### 1️⃣ Front Page - Cover
-![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/4.Sales-Performance/1.Front_Page.png)
+![Front Page](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/4.Sales-Performance/1_Front_Page.png)
 
 ### 2️⃣ Dashboard Overview - Sales Performance
 ![Dashboard](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/4.Sales-Performance/2.Dashboard.png)
