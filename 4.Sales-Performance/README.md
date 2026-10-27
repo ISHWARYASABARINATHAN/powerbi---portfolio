@@ -27,7 +27,7 @@ An interactive Power BI dashboard analyzing 2100+ invoices and 40K units sold, f
 - Sum of Revenue by Year (Line Chart - Growth from 2010 to 2011)
 - Country Slicer & InvoiceDate Slicer
 
-### 3️⃣ Ask AI - Agentic AI Insights
+### 3️⃣ Ask AI - Q & A
 ![Ask AI](https://github.com/ISHWARYASABARINATHAN/powerbi---portfolio/blob/main/4.Sales-Performance/3_Ask_Your_Data.png)
 
 > **Try Asking:**
